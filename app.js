@@ -23,31 +23,31 @@ let products = [
     {
         id: 2,
         name: 'Parts',
-        image: 'parts.JPG',
+        image: 'parts.jpg',
         price: 120000
     },
     {
         id: 3,
         name: 'AC Compressor',
-        image: 'ACCompressor.PNG',
+        image: 'ACCompressor.png',
         price: 220000
     },
     {
         id: 4,
         name: 'Clutch',
-        image: 'clutch.PNG',
+        image: 'clutch.png',
         price: 123000
     },
     {
         id: 5,
         name: 'Oil',
-        image: 'oil.JPG',
+        image: 'oil.jpg',
         price: 320000
     },
     {
         id: 6,
         name: 'Air Filter',
-        image: 'airfilter.JPG',
+        image: 'airfilter.jpg',
         price: 120000
     }
 ];
